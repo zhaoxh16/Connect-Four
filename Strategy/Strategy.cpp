@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Point.h"
 #include "Strategy.h"
+#include "Monte-Carlo.h"
 
 using namespace std;
 
@@ -54,8 +55,17 @@ extern "C" __declspec(dllexport) Point* getPoint(const int M, const int N, const
 		}
 	}
     */
-	
-	
+	freopen("C:\\Users\\DELL\\Desktop\\test.txt", "a", stdout);
+	int total = 0;
+	for (int i = 0; i < N; ++i) {
+		if (board[M - 1][i] != 0) total += 1;
+	}
+	if (total <= 1) updateBoard(M, N, top, lastX, lastY, noX, noY, board, true);
+	else updateBoard(M, N, top, lastX, lastY, noX, noY, board,false);
+	Node* node = tree.UCTSearch(lastX, lastY);
+	x = node->x;
+	y = node->y;
+	fclose(stdout);
 	/*
 		不要更改这段代码
 	*/

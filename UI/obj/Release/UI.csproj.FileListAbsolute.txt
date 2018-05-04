@@ -36,10 +36,11 @@ E:\temp\521509064_3_AI_project_2012\AI_project_2012\Connect4\UI\obj\Release\UI.P
 E:\temp\521509064_3_AI_project_2012\AI_project_2012\Connect4\UI\obj\Release\UI.csproj.GenerateResource.Cache
 D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\bin\Release\UI.exe
 D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\bin\Release\UI.pdb
-D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\obj\Release\UI.csprojResolveAssemblyReference.cache
 D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\obj\Release\UI.CompeteMode.resources
 D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\obj\Release\UI.MainFrame.resources
 D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\obj\Release\UI.Properties.Resources.resources
 D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\obj\Release\UI.csproj.GenerateResource.Cache
 D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\obj\Release\UI.exe
 D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\obj\Release\UI.pdb
+D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\bin\Release\UI.exe.config
+D:\OneDrive\Tsinghua\2018Spring\人工智能导论\AI_Project\AI_project_win\Connect4\UI\obj\Release\UI.csproj.CoreCompileInputs.cache
